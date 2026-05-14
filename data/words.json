@@ -1,0 +1,106 @@
+{
+  "unit": {
+    "id": "kanji-sei",
+    "title": "生",
+    "subtitle": "生命、出生、生活、产生",
+    "introAudio": "./assets/audio/intro.wav"
+  },
+  "words": [
+    {
+      "id": "ikiru",
+      "kanji": "生きる",
+      "kana": "いきる",
+      "romaji": "ikiru",
+      "meaning": "活着；生存",
+      "note": "强调生命持续，也可以表示靠某种方式生活。",
+      "example": "ナルトは、仲間（なかま）と生きる。",
+      "exampleCn": "鸣人和伙伴一起活下去。",
+      "wordAudio": "./assets/audio/word-ikiru.wav",
+      "sentenceAudio": "./assets/audio/sentence-ikiru.wav"
+    },
+    {
+      "id": "umareru",
+      "kanji": "生まれる",
+      "kana": "うまれる",
+      "romaji": "umareru",
+      "meaning": "出生；诞生",
+      "note": "自动词，主语是出生的人或事物。",
+      "example": "ナルトは、このはのさとでうまれた。",
+      "exampleCn": "鸣人出生在木叶村。",
+      "wordAudio": "./assets/audio/word-umareru.wav",
+      "sentenceAudio": "./assets/audio/sentence-umareru.wav"
+    },
+    {
+      "id": "umu",
+      "kanji": "生む",
+      "kana": "うむ",
+      "romaji": "umu",
+      "meaning": "生；产出；带来",
+      "note": "他动词，强调产生某个结果或生命。",
+      "example": "クシナは、ナルトを生んだ。",
+      "exampleCn": "玖辛奈生下了鸣人。",
+      "wordAudio": "./assets/audio/word-umu.wav",
+      "sentenceAudio": "./assets/audio/sentence-umu.wav"
+    },
+    {
+      "id": "seikatsu",
+      "kanji": "生活",
+      "kana": "せいかつ",
+      "romaji": "seikatsu",
+      "meaning": "生活",
+      "note": "名词或する动词，表示日常生活方式。",
+      "example": "ルフィたちは、船（ふね）で生活（せいかつ）する。",
+      "exampleCn": "路飞他们在船上生活。",
+      "wordAudio": "./assets/audio/word-seikatsu.wav",
+      "sentenceAudio": "./assets/audio/sentence-seikatsu.wav"
+    },
+    {
+      "id": "jinsei",
+      "kanji": "人生",
+      "kana": "じんせい",
+      "romaji": "jinsei",
+      "meaning": "人生",
+      "note": "指一个人的一生和经历。",
+      "example": "ナルトの人生（じんせい）は、簡単（かんたん）ではない。",
+      "exampleCn": "鸣人的人生并不简单。",
+      "wordAudio": "./assets/audio/word-jinsei.wav",
+      "sentenceAudio": "./assets/audio/sentence-jinsei.wav"
+    },
+    {
+      "id": "seisan",
+      "kanji": "生産",
+      "kana": "せいさん",
+      "romaji": "seisan",
+      "meaning": "生产",
+      "note": "常用于农作物、商品、工业生产。",
+      "example": "この村（むら）は、野菜（やさい）を生産（せいさん）する。",
+      "exampleCn": "这个村子生产蔬菜。",
+      "wordAudio": "./assets/audio/word-seisan.wav",
+      "sentenceAudio": "./assets/audio/sentence-seisan.wav"
+    },
+    {
+      "id": "isshou",
+      "kanji": "一生",
+      "kana": "いっしょう",
+      "romaji": "isshou",
+      "meaning": "一生；终身",
+      "note": "常和决心、承诺、习惯搭配。",
+      "example": "ナルトは、一生（いっしょう）、仲間（なかま）を大切（たいせつ）にする。",
+      "exampleCn": "鸣人一生都会珍惜伙伴。",
+      "wordAudio": "./assets/audio/word-isshou.wav",
+      "sentenceAudio": "./assets/audio/sentence-isshou.wav"
+    },
+    {
+      "id": "hassei",
+      "kanji": "発生",
+      "kana": "はっせい",
+      "romaji": "hassei",
+      "meaning": "发生；产生",
+      "note": "常用于事件、问题、现象的发生。",
+      "example": "木ノ葉（このは）の里（さと）で、事件（じけん）が発生（はっせい）した。",
+      "exampleCn": "木叶村发生了事件。",
+      "wordAudio": "./assets/audio/word-hassei.wav",
+      "sentenceAudio": "./assets/audio/sentence-hassei.wav"
+    }
+  ]
+}

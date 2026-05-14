@@ -1,0 +1,9 @@
+{
+  "name": "sei-kanji-mobile-pwa",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 5189",
+    "serve": "python3 -m http.server 5189"
+  }
+}
